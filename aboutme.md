@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Dr. Chris Murray
+subtitle: Post-doctoral Research Scientist, University of Washington
 ---
+
 
 My name is Inigo Montoya. I have the following qualities:
 
@@ -11,6 +12,9 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
-### my history
+### Research profiles
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+-[Professional Website](http://christophersmurray.com/)
+-[Google Scholar](https://scholar.google.com/citations?user=gkmAH6EAAAAJ&hl=en&authuser=1) ]
+-[Researchgate](https://www.researchgate.net/profile/Christopher_Murray8)
+

@@ -15,6 +15,8 @@ What else do you need?
 ### Research profiles
 
 -[Professional Website](http://christophersmurray.com/)
--[Google Scholar](https://scholar.google.com/citations?user=gkmAH6EAAAAJ&hl=en&authuser=1) ]
+
+-[Google Scholar](https://scholar.google.com/citations?user=gkmAH6EAAAAJ&hl=en&authuser=1)
+
 -[Researchgate](https://www.researchgate.net/profile/Christopher_Murray8)
 

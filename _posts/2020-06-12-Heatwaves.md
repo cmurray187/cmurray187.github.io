@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Sample blog post
+title: Characterizing Heatwaves
 subtitle: Defining heatwave scenarios in the PNW
 gh-repo: cmurray187/cmurray187.github.io
 gh-badge: [star, fork, follow]
 tags: [research][heatwaves][climatechange][HeatwaveR][Rstats]
 comments: true
 ---
+## **Marine Heatwaves in the PNW**
 
-**Marine Heatwaves in the PNW**
-
-## Characterizing the intensity and duration of marine heatwaves for use in experimental simulations
+Characterizing the intensity and duration of marine heatwaves for use in experimental simulations
 
 Here's a useless table:
 

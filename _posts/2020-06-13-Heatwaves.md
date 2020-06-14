@@ -21,8 +21,6 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
-
 ## Padilla Bay Heatwave
 <img src="https://raw.githubusercontent.com/cmurray187/Fish-Ecophysiology/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" width="400" height="400">{: .mx-auto.d-block :}
 

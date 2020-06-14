@@ -25,7 +25,7 @@ How about a yummy crepe?
 
 ![Padilla Bay Heatwave]
 
-<img src="(https://github.com/cmurray187/FishEcophysiology/blob/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" width="100" height="100">
+<img src="https://github.com/cmurray187/FishEcophysiology/blob/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" width="100" height="100">
 
 It can also be centered!
 

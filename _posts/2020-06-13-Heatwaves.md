@@ -23,7 +23,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Padilla Bay Heatwave](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png)
+![Padilla Bay Heatwave]<img src="https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" " width="2" height="2">
 
 It can also be centered!
 

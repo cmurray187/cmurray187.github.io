@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Characterizing Heatwaves
-subtitle: Defining heatwave scenarios in the PNW
+title: Characterizing Marine Heatwaves
+subtitle: A Case Study for Padilla Bay, WA
 gh-repo: cmurray187/cmurray187.github.io
 gh-badge: [star, fork, follow]
 tags: [research]
@@ -21,13 +21,10 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+## Padilla Bay Heatwave
+<img src="https://raw.githubusercontent.com/cmurray187/Fish-Ecophysiology/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" width="400" height="400">{: .mx-auto.d-block :}
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 

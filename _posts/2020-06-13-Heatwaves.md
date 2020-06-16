@@ -15,7 +15,7 @@ Marine heatwaves are increasing in severity and frequency and pose a serious thr
 
 I used the R package [HeatwaveR](https://robwschlegel.github.io/heatwaveR/) to detect heatwave events as defined by [Hobday et al. (2016)](https://www.sciencedirect.com/science/article/abs/pii/S0079661116000057) which is an anomalous event that lasts for five or more days with temperatures warmer than the 90th percentile of a long-term seasonal climatology. The authors recommend a minimum 30-year dataset, but the longest publicly available dataset from a seagrass habitat from the Salish Sea ecosystem was 18 years. I set HeatwaverR to test daily mean temperatures from 1992-2019 (dataset deposited [here](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/PadBay.xlsx)). 
 
-{% highlight R linenos %}
+```R
 ###install and load packages
 #install.packages("heatwaveR")
 library(heatwaveR)
@@ -33,7 +33,7 @@ data$t<- convertToDate(data$t)
 ###Detect events
 ts = ts2clm(data, climatologyPeriod = c("2002-1-01","2019-12-31"), pctile = 90)
 mhw = detect_event(ts)
-# View just a few metrics
+###View metrics
 mhw$event %>%
   dplyr::ungroup() %>%
   dplyr::select(event_no, duration, date_start, date_peak, intensity_max, intensity_cumulative, rate_onset) %>%
@@ -42,7 +42,7 @@ mhw$event %>%
 
 mhw = lolli_plot(mhw, metric = "intensity_max")
 mhw
-{% endhighlight %}
+```
 
 
 

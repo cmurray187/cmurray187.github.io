@@ -63,7 +63,7 @@ The function outputs a table of summarizing the top five events of the period (a
 
 I designed my experimental heatwave simulation using these extreme events. Herring embryos were reared under two pCO2 treatments (low pCO2: ~600 µatm, pHT 7.85; elevated pCO2: ~2650 µatm, pHT 7.23) at common temperature conditions (~8.5°C) for the first 5 days post-fertilization (dpf). On day 5, the simulated heatwave was initaited in half of the rearing units per pCO2 level. Temperatures were increased by ~0.9°C/d for 5 consecutive days to achieve +4.4°C above ambient (8.7°C to 13.1°C). The somewhat elevated rate of increase was a limitation of coarse temperature control of my aquarium thermostats and heaters. 
 
-This figure illustartes pH and temperature conditions from 16 experimental rearing units (black dots are discrete pH measurements and grey lines are continuous temp data):
+These figure illustarte pH and temperature conditions from 16 experimental rearing units (black dots are discrete pH measurements and grey lines are continuous temp data):
 
 Ambient Temps            |  Heatwave Treatments
 :-------------------------:|:-------------------------:

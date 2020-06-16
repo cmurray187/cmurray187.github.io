@@ -13,9 +13,8 @@ Marine heatwaves are increasing in severity and frequency and pose a serious thr
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Heatwaves/PloegChannel_map.PNG" width="400" height="400">{: .mx-auto.d-block :}
 
-<img src="master/notebookimages/Heatwaves/PloegChannel_map.PNG" width="400" height="400">{: .mx-auto.d-block :}
+<img src=".../notebookimages/Heatwaves/PloegChannel_map.PNG" width="400" height="400">{: .mx-auto.d-block :}
 
-notebookimages/Heatwaves/PloegChannel_map.PNG
 
 I used the R package [HeatwaveR](https://robwschlegel.github.io/heatwaveR/) to detect heatwave events as defined by [Hobday et al. (2016)](https://www.sciencedirect.com/science/article/abs/pii/S0079661116000057) which is an anomalous event that lasts for five or more days with temperatures warmer than the 90th percentile of a long-term seasonal climatology. The authors recommend a minimum 30-year dataset, but the longest publicly available dataset from a seagrass habitat from the Salish Sea ecosystem was 18 years. I set HeatwaverR to test daily mean temperatures from 1992-2019 (dataset deposited [here](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/PadBay.xlsx)). 
 

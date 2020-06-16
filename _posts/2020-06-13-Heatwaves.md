@@ -13,7 +13,7 @@ Marine heatwaves are increasing in severity and frequency and pose a serious thr
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Heatwaves/PloegChannel_map.PNG" width="400" height="400">{: .mx-auto.d-block :}
 
-<img src="notebookimages/Heatwaves/PloegChannel_map.PNG" width="400" height="400">{: .mx-auto.d-block :}
+<img src="master/notebookimages/Heatwaves/PloegChannel_map.PNG" width="400" height="400">{: .mx-auto.d-block :}
 
 notebookimages/Heatwaves/PloegChannel_map.PNG
 

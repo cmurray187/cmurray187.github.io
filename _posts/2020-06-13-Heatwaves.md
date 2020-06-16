@@ -47,7 +47,8 @@ mhw
 
 The function produces a lolli_plot denoting all detected events. Note the cluster of extreme events post 2015 during the north Pacific [blob event](https://research.noaa.gov/article/ArtMID/587/ArticleID/2559/So-what-are-marine-heat-waves)
 
-## Padilla Bay, WA Heatwaves 1992-2019 {: style="text-align: center;"}
+Padilla Bay, WA Heatwaves 1992-2019 
+{: style="color:black; font-size:110%; text-align: center;"}
 <img src="https://raw.githubusercontent.com/cmurray187/Fish-Ecophysiology/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" width="500" height="500">{: .mx-auto.d-block :}
 
 

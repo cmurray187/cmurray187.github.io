@@ -4,12 +4,14 @@ title: Characterizing Marine Heatwaves
 subtitle: A Case Study for Padilla Bay, WA
 gh-repo: cmurray187/cmurray187.github.io
 gh-badge: [star, fork, follow]
-tags: [research]
+tags: [research,heatwave,PadillaBay]
 comments: true
 ---
 ## **Marine Heatwaves in the PNW**
 
-Characterizing the intensity and duration of marine heatwaves for use in experimental simulations
+Marine heatwaves are increasing in severity and frequency and pose a serious threat to marine life. Experimental exposures that test physiological tolerance limits can identify vulnerable taxa, but useful experiments require a robust characterization of regional heatwave dynamics. In advance of my 2020 winter experiments on Pacific herring early life-stages, I analyzed an 18 year NEERS dataset (https://coast.noaa.gov/nerrs/reserves/padilla-bay.html) from [Padilla Bay, WA](https://coast.noaa.gov/nerrs/reserves/padilla-bay.html). The monitoring station was situated within a large sea grass system and representative of typical herring spawning habitat.  
+
+
 
 Here's a useless table:
 

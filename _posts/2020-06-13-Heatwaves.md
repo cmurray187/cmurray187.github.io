@@ -44,12 +44,13 @@ mhw = lolli_plot(mhw, metric = "intensity_max")
 mhw
 ```
 
-
-
+The function produces a lolli_plot denoting all detected events. Note the cluster of extreme events post 2015 during the north Pacific [blob event](https://research.noaa.gov/article/ArtMID/587/ArticleID/2559/So-what-are-marine-heat-waves)
 
 ## Padilla Bay Heatwave
 <img src="https://raw.githubusercontent.com/cmurray187/Fish-Ecophysiology/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" width="400" height="400">{: .mx-auto.d-block :}
 
+
+The function outputs a table of summarizing the top five events of the period (avg. duration: 7.2 d; avg. intensity: 4.5°C; avg. rate of onset: 0.6°C/d)
 
 |event_no | duration | date_start | date_peak | intensity_max | intensity_cumulative | rate_onset |
 |:-------- | :-------- | :---------- | :--------- | :------------- | :-------------------- | :---------- |
@@ -59,57 +60,11 @@ mhw
 4 | 10 | 2015-06-23 | 2015-06-26 | 4.03 | 34.2 | 0.327 |
 5 | 7 | 2003-07-20 | 2003-07-23 | 4.01 | 18.9 | 0.607 |
 
-Here's a useless table:
+I designed my experimental heatwave simulation using these extreme events. Herring embryos were reared under two pCO2 treatments (low pCO2: ~600 µatm, pHT 7.85; elevated pCO2: ~2650 µatm, pHT 7.23) at common temperature conditions (~8.5°C) for the first 5 days post-fertilization (dpf). On day 5, the simulated heatwave was initaited in half of the rearing units per pCO2 level. Temperatures were increased by ~0.9°C/d for 5 consecutive days to achieve +4.4°C above ambient (8.7°C to 13.1°C). The somewhat elevated rate of increase was a limitation of coarse temperature control of my aquarium thermostats and heaters. 
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+This figure illustartes pH and temperature conditions from 16 experimental rearing units:
 
+Ambient Temps             |  Heatwave Treatments
+:-------------------------:|:-------------------------:
+![](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/figs/Fig.%20xx%20-%20Ambient%20temp%20and%20pH%20conditions.JPG)  |  ![](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/figs/Fig.%20xx%20-%20Heatwave%20temp%20and%20pH%20conditions.JPG)
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.

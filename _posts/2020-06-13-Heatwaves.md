@@ -11,7 +11,7 @@ comments: true
 
 Marine heatwaves are increasing in severity and frequency and pose a serious threat to marine life. Experimental exposures that test physiological tolerance limits can identify vulnerable taxa, but useful experiments require a robust characterization of regional heatwave dynamics. In advance of my 2020 winter experiments on Pacific herring early life-stages, I analyzed an 18 year NEERS dataset from the Ploeg Monitoring Station in [Padilla Bay, WA](https://coast.noaa.gov/nerrs/reserves/padilla-bay.html). The station is situated within a large sea grass system and is representative of typical herring spawning habitat (48°33'22.8"N 122°31'51.2"W).
 
-<img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebook%20images/Heatwaves/PloegChannel_map.PNG" >
+<img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebook%20images/Heatwaves/PloegChannel_map.PNG">
 
 I used the R package [HeatwaveR](https://robwschlegel.github.io/heatwaveR/) to detect heatwave events as defined by [Hobday et al. (2016)](https://www.sciencedirect.com/science/article/abs/pii/S0079661116000057) which is an anomalous event that lasts for five or more days with temperatures warmer than the 90th percentile of a long-term seasonal climatology. The authors recommend a minimum 30-year dataset, but the longest publicly available dataset from a seagrass habitat from the Salish Sea ecosystem was 18 years. I set HeatwaverR to test daily mean temperatures from 1992-2019 (dataset deposited [here](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/PadBay.xlsx)). 
 
@@ -62,7 +62,7 @@ The function outputs a table of summarizing the top five events of the period (a
 
 I designed my experimental heatwave simulation using these extreme events. Herring embryos were reared under two pCO2 treatments (low pCO2: ~600 µatm, pHT 7.85; elevated pCO2: ~2650 µatm, pHT 7.23) at common temperature conditions (~8.5°C) for the first 5 days post-fertilization (dpf). On day 5, the simulated heatwave was initaited in half of the rearing units per pCO2 level. Temperatures were increased by ~0.9°C/d for 5 consecutive days to achieve +4.4°C above ambient (8.7°C to 13.1°C). The somewhat elevated rate of increase was a limitation of coarse temperature control of my aquarium thermostats and heaters. 
 
-This figure illustartes pH and temperature conditions from 16 experimental rearing units:
+This figure illustartes pH and temperature conditions from 16 experimental rearing units (black dots are discrete pH measurements and grey lines are continuous temp data):
 
 Ambient Temps            |  Heatwave Treatments
 :-------------------------:|:-------------------------:

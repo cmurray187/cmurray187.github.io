@@ -48,7 +48,7 @@ mhw
 The function produces a lolli_plot denoting all detected events. Note the cluster of extreme events post 2015 during the north Pacific [blob event](https://research.noaa.gov/article/ArtMID/587/ArticleID/2559/So-what-are-marine-heat-waves)
 
 ## Padilla Bay, WA Heatwaves 1992-2019 {: style="text-align: center;"}
-<img src="https://raw.githubusercontent.com/cmurray187/Fish-Ecophysiology/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" width="400" height="400">{: .mx-auto.d-block :}
+<img src="https://raw.githubusercontent.com/cmurray187/Fish-Ecophysiology/master/Heatwave%20Analysis/figs/Padilla%20Bay%20heatwave%20events.png" width="500" height="500">{: .mx-auto.d-block :}
 
 
 The function outputs a table of summarizing the top five events of the period (avg. duration: 7.2 d; avg. intensity: 4.5°C; avg. rate of onset: 0.6°C/d)

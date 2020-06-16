@@ -66,7 +66,7 @@ This figure illustartes pH and temperature conditions from 16 experimental reari
 
 Ambient Temps            |  Heatwave Treatments
 :-------------------------:|:-------------------------:
-![](..\notebook images\Heatwaves\Fig. xx - Ambient temp and pH conditions.JPG)  |  ![](...\notebook images\Heatwaves\Fig. xx - Heatwave temp and pH conditions.JPG)
+![](.../notebook images/Heatwaves/Fig. xx - Ambient temp and pH conditions.JPG)  |  ![](.../notebook images/Heatwaves/Fig. xx - Heatwave temp and pH conditions.JPG)
 
 
 ...\notebook images\Heatwaves\Fig. xx - Ambient temp and pH conditions.JPG

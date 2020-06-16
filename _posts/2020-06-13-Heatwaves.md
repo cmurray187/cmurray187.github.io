@@ -64,7 +64,5 @@ I designed my experimental heatwave simulation using these extreme events. Herri
 
 This figure illustartes pH and temperature conditions from 16 experimental rearing units:
 
-Ambient Temps             |  Heatwave Treatments
-:-------------------------:|:-------------------------:
 ![](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/figs/Fig.%20xx%20-%20Ambient%20temp%20and%20pH%20conditions.JPG)  |  ![](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/figs/Fig.%20xx%20-%20Heatwave%20temp%20and%20pH%20conditions.JPG)
 

@@ -9,7 +9,7 @@ comments: true
 ---
 ## **Marine Heatwaves in the PNW**
 
-The increasing frequency of severe marine heatwaves poses a serious threat to marine life. Experimental exposures that test physiological tolerance limits can identify vulnerable taxa, but useful experiments require a robust characterization of regional heatwave dynamics. I originally conducted this analysis in December 2019 in advance of my 2020 winter experiments on Pacific herring early life-stages. I analyzed an 18-year NEERS dataset from the Ploeg Monitoring Station in [Padilla Bay, WA](https://coast.noaa.gov/nerrs/reserves/padilla-bay.html). The station is situated within a large sea grass system and is representative of typical herring spawning habitat (48°33'22.8"N 122°31'51.2"W).
+The increasing frequency of severe marine heatwaves poses a serious threat to marine life. Experimental exposures that test physiological tolerance limits can identify vulnerable taxa, but useful experiments require a robust characterization of regional heatwave dynamics. I originally conducted this analysis in December 2019 in advance of my 2020 winter experiments on Pacific herring early life-stages. I analyzed an 18-year [NERRS](https://coast.noaa.gov/nerrs/) dataset from the Ploeg Monitoring Station in [Padilla Bay, WA](https://coast.noaa.gov/nerrs/reserves/padilla-bay.html). The station is situated within a large sea grass system and is representative of typical herring spawning habitat (48°33'22.8"N 122°31'51.2"W).
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Heatwaves/PloegChannel_map.PNG" width="400" height="400">{: .mx-auto.d-block :}
 

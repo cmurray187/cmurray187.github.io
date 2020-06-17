@@ -4,7 +4,7 @@ title: Mixing new m-Cresol Purple for spec pH measurements
 subtitle:
 gh-repo: cmurray187/cmurray187.github.io
 gh-badge: [star, fork, follow]
-tags: [research,specpH]
+tags: [research, spec pH, carbonate chemistry]
 comments: true
 ---
 ## **m-Cresol Purple**

@@ -17,10 +17,10 @@ The first test on the spec showed a raw absorbance ratio (578nm/434nm) was ~2.
 
 <img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2014%202020/IMG_20200615_145416.jpg?raw=true" width="400" height="400">
 
-The pH of presevred experimental seawater samples ranges between 8.0-7.3 (pHT) and dye ratio should be closer to 1. 
+The pH of presevred experimental seawater samples ranges between 8.0-7.3 (pHT). A dye ratio should be closer to 1 will minimize influence of dye pH on sample. 
 
-Added two drops (~100 ul) of 0.1N HCl and ratio dropped to 0.95.
+Adding two drops (~100 ul) of 0.1N HCl dropped the ratio to 0.95. See the corresponding color change below. 
 
 <img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2014%202020/IMG_20200615_150256.jpg?raw=true" width="400" height="400">
 
-The dye was verified by calculating TA of Dickson CRM via spec pH and DIC measurements. 
+The accuracy of the dye was valided by via spec pH and DIC measurements of Dickson CRM (batch 171).

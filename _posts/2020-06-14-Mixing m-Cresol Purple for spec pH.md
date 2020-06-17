@@ -13,7 +13,7 @@ Mixed 9.06 mg m-Cresol purple (Lot# MKBR3556V) with 10 ml RO water.
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/June%2014%202020/IMG_20200614_154604.jpg" width="400" height="400">
 
-The first test on the spec showed a raw absorbance ratio (578nm/434nm) was ~2.
+The first test on the spec showed a raw absorbance ratio (578nm/434nm) of ~2.
 
 <img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2014%202020/IMG_20200615_145416.jpg?raw=true" width="400" height="400">
 

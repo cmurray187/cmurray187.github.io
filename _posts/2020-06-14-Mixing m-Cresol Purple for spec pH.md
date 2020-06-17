@@ -9,7 +9,7 @@ comments: true
 ---
 ## **m-Cresol Purple**
 
-Mixed 9 mg m-Cresol purple (Lot# MKBR3556V) with 10 ml RO water.
+Mixed 9.06 mg m-Cresol purple (Lot# MKBR3556V) with 10 ml RO water.
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/June%2014%202020/IMG_20200614_154604.jpg" width="400" height="400">
 

@@ -15,11 +15,6 @@ On June 17 2020, I selected a single larva from each vial, imaged it for morphom
 <img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2017%202020_larvae%20prep%20for%20RNA/IMG_20200618_100246.jpg" width="400" height="400">
 
 
-I found that the condition of the larvae varied from vial to vial. Some samples appear more degraded than others (see below) and obtaining quality pictures for digital morphometric measurements was difficult (i.e., larvae had bent and shriveled in the preservative). 
+I found that the condition of the larvae varied from vial to vial. Some samples appear more degraded than others and obtaining quality pictures for digital morphometric measurements was difficult (i.e., larvae had bent and shriveled in the preservative). 
 
-**Good preservation
-<img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2017%202020_larvae%20prep%20for%20RNA/Tank14_RNAtest_June2020.tif" width="400" height="400">
-
-**Poorly Preserved
-<img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2017%202020_larvae%20prep%20for%20RNA/Tank16_RNAtest_June2020.tif" width="400" height="400">
 

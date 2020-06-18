@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Prepping herring larvae for RNA extractions and QQ

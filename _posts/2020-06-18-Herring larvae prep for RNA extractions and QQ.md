@@ -1,14 +1,13 @@
 
 ---
 layout: post
-title: Herring larvae prep for RNA extractions and QQ
+title: Prepping herring larvae for RNA extractions and QQ
 subtitle: Winter 2020 CO2 x heatwave effects on Pacific herring early life-stages
 gh-repo: cmurray187/cmurray187.github.io
 gh-badge: [star, fork, follow]
 tags: [research, Pacific herring, RNA]
 comments: true
 ---
-## Prepping herring larvae
 
 I sampled n = 20 newly hatched larvae from each experimental replicate on the day of peak hatch (March 4 for heatwave treatments and March 6 for ambient temp). Larvae from each replicate were preserved together in a 3 ml Eppendorf vial with RNALater and stored at -20C. 
 
@@ -20,8 +19,8 @@ On June 17 2020, I selected a single larva from each vial, imaged it for morphom
 I found that the condition of the larvae varied from vial to vial. Some samples appear more degraded than others (see below) and obtaining quality pictures for digital morphometric measurements was difficult (i.e., larvae had bent and shriveled in the preservative). 
 
 **Good preservation
-img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2017%202020_larvae%20prep%20for%20RNA/Tank14_RNAtest_June2020.tif" width="400" height="400">
+<img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2017%202020_larvae%20prep%20for%20RNA/Tank14_RNAtest_June2020.tif" width="400" height="400">
 
 **Poorly Preserved
-img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2017%202020_larvae%20prep%20for%20RNA/Tank16_RNAtest_June2020.tif" width="400" height="400">
+<img src="https://github.com/cmurray187/cmurray187.github.io/blob/master/notebookimages/June%2017%202020_larvae%20prep%20for%20RNA/Tank16_RNAtest_June2020.tif" width="400" height="400">
 

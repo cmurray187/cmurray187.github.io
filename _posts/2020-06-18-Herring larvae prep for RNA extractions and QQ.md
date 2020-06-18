@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Herring larvae prep for RNA extractions and QQ
-subtitle: Winter 2020: CO2 x heatwave effects on Pacific herring early life-stages
+subtitle: Winter 2020 CO2 x heatwave effects on Pacific herring early life-stages
 gh-repo: cmurray187/cmurray187.github.io
 gh-badge: [star, fork, follow]
 tags: [research, Pacific herring, RNA]

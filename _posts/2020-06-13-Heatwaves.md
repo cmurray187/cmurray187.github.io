@@ -4,7 +4,7 @@ title: Characterizing Marine Heatwaves
 subtitle: A Case Study for Padilla Bay, WA
 gh-repo: cmurray187/cmurray187.github.io
 gh-badge: [star, fork, follow]
-tags: [research,heatwave,PadillaBay]
+tags: [research,marine heatwave,PadillaBay]
 comments: true
 ---
 ## **Marine Heatwaves in the PNW**

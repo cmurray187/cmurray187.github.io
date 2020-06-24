@@ -45,7 +45,7 @@ mhw = lolli_plot(mhw, metric = "intensity_max")
 mhw
 ```
 
-This lolli_plot shows all 45 events that met the heatwave criteria ([Heatwave Events](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/Padilla%20Bay%20Heatwave%20Events%202002-2019.csv)). The most severe events occured in spring and summer but heatwaves were detected in all seasons (winter 10, spring 12, summer 13, fall 10). Note the cluster of events following the 2013–2015 extreme warm anomaly of the northeastern Pacific [blob event](https://research.noaa.gov/article/ArtMID/587/ArticleID/2559/So-what-are-marine-heat-waves). 
+This lolli_plot shows all 45 events that met the heatwave criteria ([Heatwave Events](https://github.com/cmurray187/Fish-Ecophysiology/blob/master/Heatwave%20Analysis/Padilla%20Bay%20Heatwave%20Events%202002-2019.csv)). The most severe events occured in spring and summer but heatwaves were detected in all seasons (winter 10, spring 12, summer 13, fall 10). Note the cluster of events following the 2013–2015 extreme warm anomaly of the northeastern Pacific ([the blob event](https://research.noaa.gov/article/ArtMID/587/ArticleID/2559/So-what-are-marine-heat-waves)). 
 
 
 <p><strong>Padilla Bay, WA Heatwaves 1992-2019</strong></p>

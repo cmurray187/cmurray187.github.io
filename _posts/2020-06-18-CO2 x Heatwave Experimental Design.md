@@ -26,5 +26,5 @@ On Feb 19 gonads were dissected from 12 wild adult herring (9 females and 3 male
 
 Screen were then rinsed with clean seawater to remove milt and unattached eggs then were soaked in a 100-ppm solution of Povadine in seawater for disinfection. Screens were than cut into smaller sections and distributed to one of four replicate tanks per treatment level. 
 
-<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/pavdaine%20eggs.jpg" width="600" height="400">{: .mx-auto.d-block :}" width="600" height="400">{: .mx-auto.d-block :}
+<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/povadine%20eggs.jpg" width="600" height="400">{: .mx-auto.d-block :}" width="600" height="400">{: .mx-auto.d-block :}
 

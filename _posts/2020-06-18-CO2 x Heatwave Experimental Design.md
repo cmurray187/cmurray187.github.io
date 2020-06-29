@@ -16,7 +16,7 @@ Experiments were conducted at Shannon Point Marine Center in Anacortes, WA. Embr
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/setup_image.jpg" width="400" height="400">{: .mx-auto.d-block :}
 
-I employed a 2 x 2 CO2 x temperature experimental design (N = 4 replicate tanks per treatment level). Two pCO2 conditions were achieved (~500 and ~2500 uatm). The high CO2 level was achieved by bubbling 99% CO2 into half of the header tanks. CO2-stripped air was bubbled into control pCO2 tanks to maintain ~500 uatm. CO2 treatments were split into two temperature regimes: ambient and heatwave. Initially all tanks were maintained at ambient temperatures until 5 days post-fertilization when a heatwave was initiated in half of the tanks per CO2 treatment. See this [post](https://cmurray187.github.io/2020-06-13-Heatwaves/) for a more detailed description of the heatwave treatment. 
+I employed a 2 x 2 CO2 x temperature experimental design (N = 4 replicate tanks per treatment level). Two pCO2 conditions were achieved (~500 and ~2500 uatm). The high CO2 level was achieved by bubbling 99% CO2 into half of the header tanks. CO2-stripped air was bubbled into control pCO2 tanks to maintain ~500 uatm. CO2 treatments were split into two temperature regimes: ambient and heatwave. Initially all tanks were maintained at ambient temperatures until 5 days post-fertilization (dpf) when a heatwave was initiated in half of the tanks per CO2 treatment. See this [post](https://cmurray187.github.io/2020-06-13-Heatwaves/) for a more detailed description of the heatwave treatment. 
 
 ## Fertilization
 
@@ -27,6 +27,9 @@ On Feb 19 gonads were dissected from 12 wild adult herring (9 females and 3 male
 Screen were then rinsed with clean seawater to remove milt and unattached eggs then were soaked in a 100-ppm solution of Povadine in seawater for disinfection. Screens were than cut into smaller sections and distributed to one of four replicate tanks per treatment level. 
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/povadine%20eggs.jpg" width="300" height="200">    <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/egg%20sheet.jpg" width="200" height="300">{: .mx-auto.d-block :}
+
+
+## Sampling design
 
 
 

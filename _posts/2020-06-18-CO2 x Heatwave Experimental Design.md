@@ -16,7 +16,7 @@ Experiments were conducted at Shannon Point Marine Center in Anacortes, WA. Embr
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/setup_image.jpg" width="400" height="400">{: .mx-auto.d-block :}
 
-I employed a 2 x 2 CO2 x temperature experimental design (N = 4 replicate tanks per treatment level). Two pCO2 conditions were achieved (~500 and ~2500 uatm). The high CO2 level was achieved by bubbling 99% CO2 into half of the header tanks. CO2-stripped air was bubbled into control pCO2 tanks to maintain ~500 uatm. CO2 treatments were split into two temperature regimes: ambient and heatwave. Initially all tanks were maintained at ambient temperatures until 5 days post-fertilization when a heatwave was initiated in half of the tanks per CO2 treatment. 
+I employed a 2 x 2 CO2 x temperature experimental design (N = 4 replicate tanks per treatment level). Two pCO2 conditions were achieved (~500 and ~2500 uatm). The high CO2 level was achieved by bubbling 99% CO2 into half of the header tanks. CO2-stripped air was bubbled into control pCO2 tanks to maintain ~500 uatm. CO2 treatments were split into two temperature regimes: ambient and heatwave. Initially all tanks were maintained at ambient temperatures until 5 days post-fertilization when a heatwave was initiated in half of the tanks per CO2 treatment. See this [post](https://cmurray187.github.io/2020-06-13-Heatwaves/) for a more detailed description of the heatwave treatment. 
 
 ## Fertilization
 

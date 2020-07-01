@@ -16,7 +16,7 @@ Experiments were conducted at Shannon Point Marine Center in Anacortes, WA. Embr
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/setup_image.jpg" width="400" height="400">{: .mx-auto.d-block :}
 
-I employed a 2 x 2 CO2 x temperature experimental design (N = 4 replicate tanks per treatment level). Two pCO2 conditions were achieved (~500 and ~2500 uatm). The high CO2 level was achieved by bubbling 99% CO2 into half of the header tanks. CO2-stripped air was bubbled into control pCO2 tanks to maintain ~500 uatm. CO2 treatments were split into two temperature regimes: ambient and heatwave. Initially all tanks were maintained at ambient temperatures until 5 days post-fertilization (dpf) when a heatwave was initiated in half of the tanks per CO2 treatment. See this [post](https://cmurray187.github.io/2020-06-13-Heatwaves/) for a more detailed description of the heatwave treatment. 
+I employed a 2 x 2 CO2 x temperature experimental design (N = 4 replicate tanks per treatment level). Two pCO2 conditions were achieved (~500 and ~2500 uatm). The high CO2 level was achieved by bubbling 99% CO2 into half of the header tanks. CO2-stripped air was bubbled into control pCO2 tanks to maintain ~500 uatm. CO2 treatments were split into two temperature regimes: ambient and heatwave. Initially all tanks were maintained at ambient temperatures until 5 days post-fertilization (dpf) when a heatwave was initiated in half of the tanks per CO2 treatment. Temperatures were increased by ~0.9°C/d for 5 consecutive days to achieve a heatwave condition of +4.4°C above ambient (8.7°C to 13.1°C). See this [post](https://cmurray187.github.io/2020-06-13-Heatwaves/) for a more detailed description of the heatwave treatment. 
 
 ## Fertilization
 
@@ -32,7 +32,12 @@ Screen were then rinsed with clean seawater to remove milt and unattached eggs t
 
 ## Sampling design
 
-**Fertilization success:** After 12 h post-fertilization, N > 20 embryos were randomly sampled from each tank and photographed to quantify fertilization success. Fertilization status was determined by the presence or absence of a raised fertilization membrane (Dinnel et al., 2010) and tank-specific fertilization success quantified as the percentage of fertilized eggs by the total sample size. 
+**Fertilization success:** After 12 hours post-fertilization (hpf), N > 20 embryos were randomly sampled from each tank and photographed (at 80x) to quantify fertilization success. Fertilization status was determined by the presence or absence of a raised fertilization membrane (Dinnel et al., 2010) and tank-specific fertilization success quantified as the percentage of fertilized eggs by the total sample size. 
 
-img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/fertsuccess.jpg" width="300" height="200">        
+<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/fertsuccess.jpg" width="300" height="200">        
+
+**Embryo survival:** After 14 hpf, I selected 100 fertilized embryos (confirmed under the dissection microscope) distributed them to a new rearing basket within each tank to quantify treatment effects on embryo survival. The remainder of the embryos were maintained in a separate basket for measurements of developmental and metabolic rates. Hatching commenced 10- and 13-days post-fertilization (dpf) in the heatwave and ambient temperature treatments, respectively. Each morning, newly hatched larvae were counted and removed from the survival baskets and I evaluated them under the dissection scope for obvious developmental deformities (following Dinnel et al., 2010). In some cases, newly hatched larvae were dead or dying at the time of sampling. Hatchlings were considered dead/moribund if they failed to react to gentle prodding with tweezers and a bright light stimulus. 
+For each tank, I quantified total hatch (total number of hatchlings by 100 starting embryos), healthy hatch (total hatch minus the sum of dead, moribund, and deformed larvae all divided by 100 starting embryos), and deformed hatch (number of deformed larvae divided by 100 starting embryos). The embryo survival portion of the experiment was terminated 18 dpf when no new hatchling had been counted for three consecutive days at which point any unhatched embryos were counted. I confirmed that all unhatched embryos were confirmed to be dead by examining them under a dissection microscope.
+
+
 

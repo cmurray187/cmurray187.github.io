@@ -41,4 +41,4 @@ For each tank, I quantified total hatch (total number of hatchlings by 100 start
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/deformed.jpg" width="300" height="200">  
 
-**Embryo Oxygen Consumption:** 
+**Embryo Oxygen Consumption:** Rates  of embryonic oxygen consumption were measured 6, 7, and 8 dpf. I sampled 10 embryos from each replicate for measurements  

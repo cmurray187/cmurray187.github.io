@@ -34,6 +34,6 @@ Screen were then rinsed with clean seawater to remove milt and unattached eggs t
 
 **Fertilization success:** After 12 h post-fertilization, N > 20 embryos were randomly sampled from each tank and photographed to quantify fertilization success. Fertilization status was determined by the presence or absence of a raised fertilization membrane (Dinnel et al., 2010) and tank-specific fertilization success quantified as the percentage of fertilized eggs by the total sample size. 
 
-img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/fertsuccess.jpg" width="300" height="200">        
+<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/Exp3%20design/fertsuccess.jpg" width="300" height="200">        
 
 **Embryo Survival:** 

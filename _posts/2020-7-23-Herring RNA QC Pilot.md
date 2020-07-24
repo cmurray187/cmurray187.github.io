@@ -8,7 +8,7 @@ tags: [research, Pacific herring, RNA]
 comments: true
 ---
 
-I sent 16 larvae (one per replicare tank) to UW's Functional Genomics Core for a pilot RNA extraction and QC. The extraction was completed by Dr. Sengkeo Srinouanprachanh.
+I sent 16 larvae (one per replicare tank) to UW's Functional Genomics Core for a pilot RNA extraction and QC. The extraction was completed by Dr. Sengkeo Srinouanprachanh on 7/2/2020.
 
 RNA extracted using Zymo RNA Mini Kit. QC done using Eukaryote Total RNA Pico in Agilent 2100 bioanalyzer. 
 

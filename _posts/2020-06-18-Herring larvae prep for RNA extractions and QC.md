@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prepping herring larvae for RNA extractions and QQ
+title: Prepping herring larvae for RNA extractions and QC
 subtitle: 
 gh-repo: cmurray187/cmurray187.github.io
 gh-badge: [star, fork, follow]

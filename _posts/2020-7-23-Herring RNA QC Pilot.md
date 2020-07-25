@@ -30,7 +30,7 @@ I have ~15 more samples per replicate tank preserved in RNAlater. Based on the i
 
 
 ## A note on RIN values
-RIN is an algorithm based on a selection of features [Schroeder et al., 2006](https://bmcmolbiol.biomedcentral.com/articles/10.1186/1471-2199-7-3). Important qualities include (from Schroeder et al.) 
+RIN is an algorithm based on a selection of features ([Schroeder et al., 2006](https://bmcmolbiol.biomedcentral.com/articles/10.1186/1471-2199-7-3)). Important qualities include (from Schroeder et al.) 
 1.	The total RNA ratio measures the fraction of the area in the region of 18S and 28S compared to the total area under the curve and reflects the proportion of large molecules compared to smaller ones. It has large values for categories 6 to 10.
 2.	The height of the 28S peak contributes additional information about the state of the degradation process, i.e. during degradation, the 28S band disappears faster than the 18S band. Therefore, it allows detection of a beginning degradation. It has largest values for categories 9 and 10, and zero values for categories 1 to 3.
 3.	The fast area ratio reflects how far the degradation proceeded and has typically larger values for the categories 3 to 6.

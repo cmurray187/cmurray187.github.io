@@ -17,11 +17,11 @@ RNA quality varied between samples. See the electropherograms below:
 
 **Replicates 1-8**
 
-<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/July%2017%20Herring%20RNA%20QC/RIN_tanks1-8.PNG" width="400" height="400">
+<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/July%2017%20Herring%20RNA%20QC/RIN_tanks1-8.PNG" width="600" height="800">
 
 **Replicates 9-16**
 
-<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/July%2017%20Herring%20RNA%20QC/RIN_tanks9-16.PNG" width="400" height="400">
+<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/July%2017%20Herring%20RNA%20QC/RIN_tanks9-16.PNG" width="600" height="800">
 
 A conservative cutoff for RIN is ~7, although samples with slightly lowers RINs could be accounted for during analysis. We that that 10/16 samples had RIN > 7, 3 samples > 6, and 3 samples < 6. 
 

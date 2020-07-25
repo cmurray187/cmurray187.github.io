@@ -37,6 +37,16 @@ RIN is an algorithm based on a selection of features (Schroeder et al., 2006)[ht
 4.	The marker height has large values for categories 1 and 2 and small values for all other categories since short degradation products will overlap with the lower marker.
  
 **Segments of an electropherogram**
+
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/July%2017%20Herring%20RNA%20QC/Segments%20of%20an%20electropherogram.png" width="400" height="400">
 
+**Feature extraction.** Segments of an electropherogram: The segment preceeding the lower marker is designated the pre-region. The marker-region coincides with the area occupied by the lower-marker peak. The 5S-region covers the small rRNA fragments (5S and 5.8S rRNA, and tRNA). The 18S-region and 28S-region cover the 18S peak and 28S peak, respectively. The fast-region lies between the 5S-region and the 18S-region. The inter-region lies between the 18S-region and the 28S-region. The precursor-region covers the pre-cursor RNA following the 28S-region. And finally the post-region lies beyond the precursor-region.
 
+
+Here are the characteristics of the 10 RIN categories. 
+
+**RNA integrity categories**
+
+<img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/July%2017%20Herring%20RNA%20QC/RNA%20integrity%20catagories.png" width="400" height="400">
+
+**Fig. 2:** The figure shows typical representatives of the ten integrity categories. RIN values range from 10 (intact) to 1 (totally degraded). The gradual degradation of rRNA is reflected by a continuous shift towards shorter fragment sizes.

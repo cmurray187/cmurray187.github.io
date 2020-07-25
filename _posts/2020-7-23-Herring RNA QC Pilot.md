@@ -23,10 +23,10 @@ RNA quality varied between samples. See the electropherograms below:
 
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/July%2017%20Herring%20RNA%20QC/RIN_tanks9-16.PNG" width="700" height="800">
 
-A conservative cutoff for RIN is ~7, although samples with slightly lowers RINs could be accounted for during analysis. We that that 10/16 samples had RIN > 7, 3 samples > 6, and 3 samples < 6. 
+A conservative cutoff for RIN is ~7, although samples with slightly lowers RINs could be controlled for during analysis. We found that 10/16 samples had RINs > 7, 3 samples > 6, and 3 samples < 6.
 
 ## Next  Steps
-I have ~15 more samples per replicate tank preserved in RNAlater. Based on the images I took of the original larvae used for this pilot, evidence for visual degradation is a reltively good marker for RNA quality. I'm optomistic that there are a few winners from each replicate vial for a high quality analysis. 
+I have ~15 more samples per replicate tank preserved in RNAlater. Based on the images I took of the pilot larvae pre QC, evidence for visual degradation is a reltively good marker for RNA quality. I'm optomistic that there are a few winners from each replicate vial to progress with a high quality analysis. 
 
 
 ## A note on RIN values

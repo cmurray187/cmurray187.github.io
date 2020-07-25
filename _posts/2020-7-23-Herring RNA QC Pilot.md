@@ -50,3 +50,9 @@ Here are the characteristics of the 10 RIN categories.
 <img src="https://raw.githubusercontent.com/cmurray187/cmurray187.github.io/master/notebookimages/July%2017%20Herring%20RNA%20QC/RNA%20integrity%20catagories.png" width="400" height="400">
 
 **Fig. 2:** The figure shows typical representatives of the ten integrity categories. RIN values range from 10 (intact) to 1 (totally degraded). The gradual degradation of rRNA is reflected by a continuous shift towards shorter fragment sizes.
+
+
+**Work Cited**
+
+Schroeder A, Mueller O, Stocker S, Salowsky R, Leiber M, Gassmann M, Lightfoot S, Menzel W, Granzow M,  Ragg T (2006) The rin: An rna integrity number for assigning integrity values to rna measurements. BMC Molecular Biology 7: 3
+

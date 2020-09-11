@@ -3,6 +3,7 @@ title: "Publications"
 ---
 
 **2020**
+
 (12) Murray, C.S., Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation)
 
 (11) Schwemmer, T.S., Baumann, H., Murray, C.S., Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to acidification and hypoxia. Journal of Experimental Biology (in review)
@@ -11,6 +12,7 @@ title: "Publications"
 Data repository: growth – https://doi.org/10.1371/journal.pone.0235817.s004.
 
 **2019**
+
 (9)Cross, E.L., Murray, C.S., and Baumann, H. (2019) Diel and tidal pCO2 × O2 fluctuations provide physiological refuge to a coastal forage fish. Scientific Reports 9:18146.
 Data repositories:  survival – https://doi.org/10.1575/1912/bco-dmo.777117.1; growth – https://doi.org/10.1575/1912/bco-dmo.777130.1;  carbonate chemistry – https://doi.org/10.1575/1912/bco-dmo.777144.1.
 
@@ -18,6 +20,7 @@ Data repositories:  survival – https://doi.org/10.1575/1912/bco-dmo.777117.1; 
 Data repositories: survival – https://www.bco-dmo.org/dataset/749429; growth – https://www.bco-dmo.org/dataset/749958/data.
 
 **2018**
+
 (7) Baumann, H., Cross, E.L., and Murray, C.S. (2018) Robust quantification of fish early life CO2 sensitivities via serial experimentation. Biology Letters 14:20180408.
 Data repository:  http://dx.doi.org/10.5061/dryad.4573j74.
 

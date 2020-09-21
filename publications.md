@@ -5,13 +5,12 @@ title: "Publications"
 **2020**
 
 (12) **Murray, C.S.,** Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation)
-<br>Data [Github](https://github.com/cmurray187/Developmental-plasticity-of-forage-under-combined-climate-stressors)</br>
+<br>Data: [Github](https://github.com/cmurray187/Developmental-plasticity-of-forage-under-combined-climate-stressors)<br/>
 
 (11) Schwemmer, T.S., Baumann, H., **Murray, C.S.**, Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to    acidification and hypoxia. *Journal of Experimental Biology* (in review)
-Data n/a
 
 (10) **Murray, C.S.,** Baumann, H., (2020) [Are long-term growth responses to elevated pCO2 sex-specific in fish?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235817) *PLOS ONE* 15(7): e0235817 ([Press Release](08/uconn-research-carbon-ocean-can-lead-smaller-fish/amp/?__twitter_impression=true))
-Data: [growth](https://doi.org/10.1371/journal.pone.0235817.s004.)
+<br>Data: [growth](https://doi.org/10.1371/journal.pone.0235817.s004.)
 
 **2019**
 
@@ -33,7 +32,7 @@ Data: [growth and survival](https://www.bco-dmo.org/dataset/732818/data)
 (5) Baumann, H., Parks, E.M., and **Murray, C.S.** (2018) [Starvation rates in larval and juvenile Atlantic silversides (*Menidia menidia*) are unaffected by high CO2 conditions.](https://link.springer.com/article/10.1007/s00227-018-3335-x) *Marine Biology* 165:75-83
 
 
-(4) Snyder, J.T., **Murray, C.S.,** and Baumann, H. (2018) [Potential for maternal effects on offspring CO2 sensitivities in the Atlantic silverside (*Menidia menidia*).](https://www.sciencedirect.com/science/article/pii/S0022098117303404) *Journal of Experimental Marine Biology and Ecology* 499:1-8
+(4) Snyder, J.T., **Murray, C.S.,** and Baumann, H. (2018) [Potential for maternal effects on offspring CO2 sensitivi/ties in the Atlantic silverside (*Menidia menidia*).](https://www.sciencedirect.com/science/article/pii/S0022098117303404) *Journal of Experimental Marine Biology and Ecology* 499:1-8
 Data [survival, length, and growth](http://doi.org/10.1575/1912/bco-dmo.719449), [fatty acid profiles of M. menidia females and their unfertilized eggs](http://doi.org/10.1575/1912/bco-dmo.719454)
 
 **2017**

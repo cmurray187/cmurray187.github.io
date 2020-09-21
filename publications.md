@@ -26,7 +26,7 @@ title: "Publications"
 <br>Data: [growth & survival](http://dx.doi.org/10.5061/dryad.4573j74)
 
 (6) **Murray, C.S.,** Baumann, H. (2018) [You better repeat it: complex CO2 × temperature effects in Atlantic silverside offspring revealed by serial experimentation.](https://www.mdpi.com/1424-2818/10/3/69/htm) *Diversity* 2018, 10(3), 69
-<br>Data: [growth and survival](https://www.bco-dmo.org/dataset/732818/data)
+<br>Data: [growth & survival](https://www.bco-dmo.org/dataset/732818/data)
 
 (5) Baumann, H., Parks, E.M., and **Murray, C.S.** (2018) [Starvation rates in larval and juvenile Atlantic silversides (*Menidia menidia*) are unaffected by high CO2 conditions.](https://link.springer.com/article/10.1007/s00227-018-3335-x) *Marine Biology* 165:75-83
 

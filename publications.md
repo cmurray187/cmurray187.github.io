@@ -12,7 +12,7 @@ title: "Publications"
 
 **2019**
 
-(9) Cross, E.L., **Murray, C.S.,** and Baumann, H. (2019) [Diel and tidal pCO2 × O2 fluctuations provide physiological refuge to a coastal forage fish.](https://www.nature.com/articles/s41598-019-53930-8) *Scientific Reports* 9:18146 | Data: [survival](https://doi.org/10.1575/1912/bco-dmo.777117.1), [growth](https://doi.org/10.1575/1912/bco-dmo.777130.1), [carbonate chemistry](https://doi.org/10.1575/1912/bco-dmo.777144.1)
+(9) Cross, E.L., **Murray, C.S.,** and Baumann, H. (2019) [Diel and tidal pCO2 × O2 fluctuations provide physiological refuge to a coastal forage fish.](https://www.nature.com/articles/s41598-019-53930-8) *Scientific Reports* 9:18146&nbsp;&nbsp;| Data: [survival](https://doi.org/10.1575/1912/bco-dmo.777117.1), [growth](https://doi.org/10.1575/1912/bco-dmo.777130.1), [carbonate chemistry](https://doi.org/10.1575/1912/bco-dmo.777144.1)
 
 (8) **Murray, C.S.,** Wiley, D., and Baumann, H. (2019) [High sensitivity of a keystone forage fish to elevated CO2 and temperature.](https://academic.oup.com/conphys/article/7/1/coz084/5626538) Conservation Physiology 7:1-12 | Data [survival](https://www.bco-dmo.org/dataset/749429), [growth](https://www.bco-dmo.org/dataset/749958/data)
 

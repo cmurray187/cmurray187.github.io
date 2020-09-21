@@ -4,16 +4,16 @@ title: "Publications"
 
 **2020**
 
-(12) Murray, C.S., Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation)
+(12) **Murray, C.S.,** Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation)
 
-(11) Schwemmer, T.S., Baumann, H., Murray, C.S., Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to acidification      and hypoxia. Journal of Experimental Biology (in review)
+(11) Schwemmer, T.S., Baumann, H., **Murray, C.S.**, Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to acidification  and hypoxia. Journal of Experimental Biology (in review)
 
 (10) **Murray, C.S.,** Baumann, H., (2020) Are long-term growth responses to elevated pCO2 sex-specific in fish? *PLOS ONE* 15(7): e0235817 | [Press Release](08/uconn-research-carbon-ocean-can-lead-smaller-fish/amp/?__twitter_impression=true).
      Data repository: growth – https://doi.org/10.1371/journal.pone.0235817.s004.
 
 **2019**
 
-(9)Cross, E.L., Murray, C.S., and Baumann, H. (2019) Diel and tidal pCO2 × O2 fluctuations provide physiological refuge to a coastal forage fish. Scientific Reports 9:18146.
+(9)Cross, E.L., **Murray, C.S.,** and Baumann, H. (2019) Diel and tidal pCO2 × O2 fluctuations provide physiological refuge to a coastal forage fish. Scientific Reports 9:18146.
 Data repositories:  survival – https://doi.org/10.1575/1912/bco-dmo.777117.1; growth – https://doi.org/10.1575/1912/bco-dmo.777130.1;  carbonate chemistry – https://doi.org/10.1575/1912/bco-dmo.777144.1.
 
 (8) Murray, C.S., Wiley, D., and Baumann, H. (2019) High sensitivity of a keystone forage fish to elevated CO2 and temperature. Conservation Physiology 7:1-12 .

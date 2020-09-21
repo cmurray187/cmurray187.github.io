@@ -9,7 +9,7 @@ title: "Publications"
 (11) Schwemmer, T.S., Baumann, H., **Murray, C.S.**, Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to    acidification and hypoxia. *Journal of Experimental Biology* (in review)
 
 (10) **Murray, C.S.,** Baumann, H., (2020) [Are long-term growth responses to elevated pCO2 sex-specific in fish?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235817) 
-*PLOS ONE* 15(7): e0235817 | [Press Release](08/uconn-research-carbon-ocean-can-lead-smaller-fish/amp/?__twitter_impression=true) | [Data](https://doi.org/10.1371/journal.pone.0235817.s004.)
+*PLOS ONE* 15(7): e0235817 | [Press Release](08/uconn-research-carbon-ocean-can-lead-smaller-fish/amp/?__twitter_impression=true) | Data: [growth](https://doi.org/10.1371/journal.pone.0235817.s004.)
 
 **2019**
 
@@ -19,9 +19,9 @@ title: "Publications"
 
 **2018**
 
-(7) Baumann, H., Cross, E.L., and **Murray, C.S.** (2018) [Robust quantification of fish early life CO2 sensitivities via serial experimentation.](https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0408) *Biology Letters* 14:20180408 | [Data](http://dx.doi.org/10.5061/dryad.4573j74)
+(7) Baumann, H., Cross, E.L., and **Murray, C.S.** (2018) [Robust quantification of fish early life CO2 sensitivities via serial experimentation.](https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0408) *Biology Letters* 14:20180408 | Data: [growth and survival](http://dx.doi.org/10.5061/dryad.4573j74)
 
-(6) **Murray, C.S.,** Baumann, H. (2018) [You better repeat it: complex CO2 × temperature effects in Atlantic silverside offspring revealed by serial experimentation.](https://www.mdpi.com/1424-2818/10/3/69/htm) *Diversity* 2018, 10(3), 69 | [Data](https://www.bco-dmo.org/dataset/732818/data)
+(6) **Murray, C.S.,** Baumann, H. (2018) [You better repeat it: complex CO2 × temperature effects in Atlantic silverside offspring revealed by serial experimentation.](https://www.mdpi.com/1424-2818/10/3/69/htm) *Diversity* 2018, 10(3), 69 |  Data: [growth and survival](https://www.bco-dmo.org/dataset/732818/data)
 
 (5) Baumann, H., Parks, E.M., and **Murray, C.S.** (2018) [Starvation rates in larval and juvenile Atlantic silversides (*Menidia menidia*) are unaffected by high CO2 conditions.](https://link.springer.com/article/10.1007/s00227-018-3335-x) *Marine Biology* 165:75-83
 
@@ -33,7 +33,7 @@ title: "Publications"
 
 **2015**
 
-(2) Malvezzi, A.J., **Murray, C.S.,** Feldheim, K.A., Dibattista, J.D., Garant, D., Gobler, C.J., Chapman, D.D., and Baumann, H. (2015) [A quantitative genetic approach to assess the evolutionary potential of a coastal marine fish to ocean acidification.](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12248) *Evolutionary Applications* 8: 352-362 | [Press Release](https://today.uconn.edu/2015/03/evolving-to-cope-with-climate-change/) | [Data: microsatellites, parentage, survival](http://datadryad.org/resource/doi:10.5061/dryad.bd6vs)
+(2) Malvezzi, A.J., **Murray, C.S.,** Feldheim, K.A., Dibattista, J.D., Garant, D., Gobler, C.J., Chapman, D.D., and Baumann, H. (2015) [A quantitative genetic approach to assess the evolutionary potential of a coastal marine fish to ocean acidification.](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12248) *Evolutionary Applications* 8: 352-362 | [Press Release](https://today.uconn.edu/2015/03/evolving-to-cope-with-climate-change/) | Data: [microsatellites, parentage, survival](http://datadryad.org/resource/doi:10.5061/dryad.bd6vs)
 
 **2014**
 

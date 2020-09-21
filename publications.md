@@ -6,10 +6,10 @@ title: "Publications"
 
 (12) Murray, C.S., Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation)
 
-(11) Schwemmer, T.S., Baumann, H., Murray, C.S., Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to acidification and hypoxia. Journal of Experimental Biology (in review)
+(11) Schwemmer, T.S., Baumann, H., Murray, C.S., Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to acidification      and hypoxia. Journal of Experimental Biology (in review)
 
-(10) *Murray, C.S.,* Baumann, H., (2020) Are long-term growth responses to elevated pCO2 sex-specific in fish? PLOS ONE 15(7): e0235817 | Press Release.
-Data repository: growth – https://doi.org/10.1371/journal.pone.0235817.s004.
+(10) **Murray, C.S.,** Baumann, H., (2020) Are long-term growth responses to elevated pCO2 sex-specific in fish? *PLOS ONE* 15(7): e0235817 | [Press Release](08/uconn-research-carbon-ocean-can-lead-smaller-fish/amp/?__twitter_impression=true).
+     Data repository: growth – https://doi.org/10.1371/journal.pone.0235817.s004.
 
 **2019**
 

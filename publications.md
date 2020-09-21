@@ -18,7 +18,7 @@ title: "Publications"
 <br>Data: [survival](https://doi.org/10.1575/1912/bco-dmo.777117.1), [growth](https://doi.org/10.1575/1912/bco-dmo.777130.1), [carbonate chemistry](https://doi.org/10.1575/1912/bco-dmo.777144.1)
 
 (8) **Murray, C.S.,** Wiley, D., and Baumann, H. (2019) [High sensitivity of a keystone forage fish to elevated CO2 and temperature.](https://academic.oup.com/conphys/article/7/1/coz084/5626538) Conservation Physiology 7:1-12
-<br>Data [survival](https://www.bco-dmo.org/dataset/749429), [growth](https://www.bco-dmo.org/dataset/749958/data)
+<br>Data: [survival](https://www.bco-dmo.org/dataset/749429), [growth](https://www.bco-dmo.org/dataset/749958/data)
 
 **2018**
 
@@ -37,14 +37,14 @@ title: "Publications"
 **2017**
 
 (3) **Murray, C.S.,** Fuiman, L., and Baumann, H. (2017) [Consequences of elevated CO2 exposure across multiple life stages in a coastal forage fish.](https://academic.oup.com/icesjms/article/74/4/1051/2670315) *ICES Journal of Marine Science* 74:1051-1061
-<br>Data [growth](https://www.bco-dmo.org/dataset/651461)
+<br>Data: [growth](https://www.bco-dmo.org/dataset/651461)
 
 **2015**
 
 (2) Malvezzi, A.J., **Murray, C.S.,** Feldheim, K.A., Dibattista, J.D., Garant, D., Gobler, C.J., Chapman, D.D., and Baumann, H. (2015) [A quantitative genetic approach to assess the evolutionary potential of a coastal marine fish to ocean acidification.](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12248) *Evolutionary Applications* 8: 352-362 ([Press Release](https://today.uconn.edu/2015/03/evolving-to-cope-with-climate-change/))
-<br>Data [microsatellites, parentage, survival](http://datadryad.org/resource/doi:10.5061/dryad.bd6vs)
+<br>Data: [microsatellites, parentage, survival](http://datadryad.org/resource/doi:10.5061/dryad.bd6vs)
 
 **2014**
 
 (1) **Murray, C.S.,** Malvezzi, A., Gobler, C.J., and Baumann, H. (2014) [Offspring sensitivity to ocean acidification changes seasonally in a coastal marine fish.](https://www.int-res.com/abstracts/meps/v504/p1-11/) *Marine Ecology Progress Series* 504: 1-11 (Feature Article)
-<br>Data [seasonal growth, survival, chemistry](http://doi.pangaea.de/10.1594/PANGAEA.838990)
+<br>Data: [seasonal growth, survival, chemistry](http://doi.pangaea.de/10.1594/PANGAEA.838990)

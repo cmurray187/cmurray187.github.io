@@ -4,9 +4,9 @@ title: "Publications"
 
 **2020**
 
-(12) **Murray, C.S.,** Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Data [Github](https://github.com/cmurray187/Developmental-plasticity-of-forage-under-combined-climate-stressors)
+(12) **Murray, C.S.,** Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Data [Github](https://github.com/cmurray187/Developmental-plasticity-of-forage-under-combined-climate-stressors)
 
-(11) Schwemmer, T.S., Baumann, H., **Murray, C.S.**, Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to    acidification and hypoxia. *Journal of Experimental Biology* (in review) | Data
+(11) Schwemmer, T.S., Baumann, H., **Murray, C.S.**, Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to    acidification and hypoxia. *Journal of Experimental Biology* (in review)&nbsp; | Data n/a
 
 (10) **Murray, C.S.,** Baumann, H., (2020) [Are long-term growth responses to elevated pCO2 sex-specific in fish?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235817) *PLOS ONE* 15(7): e0235817 ([Press Release](08/uconn-research-carbon-ocean-can-lead-smaller-fish/amp/?__twitter_impression=true)) | Data [growth](https://doi.org/10.1371/journal.pone.0235817.s004.)
 

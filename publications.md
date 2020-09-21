@@ -4,7 +4,7 @@ title: "Publications"
 
 **2020**
 
-(12) **Murray, C.S.,** Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation) | [Data](https://github.com/cmurray187/Developmental-plasticity-of-forage-under-combined-climate-stressors)
+(12) **Murray, C.S.,** Early life sensitivity of Pacific herring to combined high pCO2 and heatwave conditions. (in preparation) | Data: [Github](https://github.com/cmurray187/Developmental-plasticity-of-forage-under-combined-climate-stressors)
 
 (11) Schwemmer, T.S., Baumann, H., **Murray, C.S.**, Molina, A.I., and Nye, J. Synergistic metabolic responses of embryos, but not larvae, of a coastal forage fish to    acidification and hypoxia. *Journal of Experimental Biology* (in review)
 

@@ -18,12 +18,12 @@ title: "Publications"
 <br>Data: [survival](https://doi.org/10.1575/1912/bco-dmo.777117.1), [growth](https://doi.org/10.1575/1912/bco-dmo.777130.1), [carbonate chemistry](https://doi.org/10.1575/1912/bco-dmo.777144.1)
 
 (8) **Murray, C.S.,** Wiley, D., and Baumann, H. (2019) [High sensitivity of a keystone forage fish to elevated CO2 and temperature.](https://academic.oup.com/conphys/article/7/1/coz084/5626538) Conservation Physiology 7:1-12
-<br>Data: [survival](https://www.bco-dmo.org/dataset/749429), [growth](https://www.bco-dmo.org/dataset/749958/data)
+<br>Data: [survival](https://www.bco-dmo.org/dataset/749429) & [growth](https://www.bco-dmo.org/dataset/749958/data)
 
 **2018**
 
 (7) Baumann, H., Cross, E.L., and **Murray, C.S.** (2018) [Robust quantification of fish early life CO2 sensitivities via serial experimentation.](https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0408) *Biology Letters* 14:20180408
-<br>Data: [growth and survival](http://dx.doi.org/10.5061/dryad.4573j74)
+<br>Data: [growth & survival](http://dx.doi.org/10.5061/dryad.4573j74)
 
 (6) **Murray, C.S.,** Baumann, H. (2018) [You better repeat it: complex CO2 × temperature effects in Atlantic silverside offspring revealed by serial experimentation.](https://www.mdpi.com/1424-2818/10/3/69/htm) *Diversity* 2018, 10(3), 69
 <br>Data: [growth and survival](https://www.bco-dmo.org/dataset/732818/data)
@@ -32,7 +32,7 @@ title: "Publications"
 
 
 (4) Snyder, J.T., **Murray, C.S.,** and Baumann, H. (2018) [Potential for maternal effects on offspring CO2 sensitivi/ties in the Atlantic silverside (*Menidia menidia*).](https://www.sciencedirect.com/science/article/pii/S0022098117303404) *Journal of Experimental Marine Biology and Ecology* 499:1-8
-<br>Data: [survival, length, and growth](http://doi.org/10.1575/1912/bco-dmo.719449), [fatty acid profiles of M. menidia females and their unfertilized eggs](http://doi.org/10.1575/1912/bco-dmo.719454)
+<br>Data: [growth & survival](http://doi.org/10.1575/1912/bco-dmo.719449), [fatty acid profiles of M. menidia females and their unfertilized eggs](http://doi.org/10.1575/1912/bco-dmo.719454)
 
 **2017**
 

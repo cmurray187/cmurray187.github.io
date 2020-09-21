@@ -11,8 +11,7 @@ Data [Github](https://github.com/cmurray187/Developmental-plasticity-of-forage-u
 Data n/a
 
 (10) **Murray, C.S.,** Baumann, H., (2020) [Are long-term growth responses to elevated pCO2 sex-specific in fish?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235817) *PLOS ONE* 15(7): e0235817 ([Press Release](08/uconn-research-carbon-ocean-can-lead-smaller-fish/amp/?__twitter_impression=true))
-
-Data [growth](https://doi.org/10.1371/journal.pone.0235817.s004.)
+Data: [growth](https://doi.org/10.1371/journal.pone.0235817.s004.)
 
 **2019**
 

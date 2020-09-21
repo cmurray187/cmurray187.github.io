@@ -18,7 +18,7 @@ title: "Publications"
 <br>Data: [survival](https://doi.org/10.1575/1912/bco-dmo.777117.1), [growth](https://doi.org/10.1575/1912/bco-dmo.777130.1), [carbonate chemistry](https://doi.org/10.1575/1912/bco-dmo.777144.1)
 
 (8) **Murray, C.S.,** Wiley, D., and Baumann, H. (2019) [High sensitivity of a keystone forage fish to elevated CO2 and temperature.](https://academic.oup.com/conphys/article/7/1/coz084/5626538) Conservation Physiology 7:1-12
-<br>Data: [survival](https://www.bco-dmo.org/dataset/749429) & [growth](https://www.bco-dmo.org/dataset/749958/data)
+<br>Data: [growth](https://www.bco-dmo.org/dataset/749958/data) & [survival](https://www.bco-dmo.org/dataset/749429
 
 **2018**
 
